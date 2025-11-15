@@ -1,0 +1,7 @@
+dash
+dash_iconify
+dash_mantine_components
+dash_ag_grid
+sqlite3
+pandas
+re
